@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-![Coffee Shop Dashboard](coffee_shop_dashboard.png)
+![Coffee Shop Dashboard](coffe_shop_dashboard.png)
 
 ## Overview
 This project analyzes transactional sales data from a coffee shop to identify trends in product performance, revenue distribution, and sales patterns throughout the day.
