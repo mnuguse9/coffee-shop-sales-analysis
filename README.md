@@ -1,6 +1,10 @@
-Coffee Shop Sales Analysis
-Overview
+# Coffee Shop Sales Analysis
 
+## Dashboard
+
+![Coffee Shop Dashboard](coffee_shop_dashboard.png)
+
+## Overview
 This project analyzes transactional sales data from a coffee shop to identify trends in product performance, revenue distribution, and sales patterns throughout the day.
 
 The goal of this analysis is to demonstrate how data analysis and visualization can help businesses make better decisions about product offerings, promotions, and operations.
